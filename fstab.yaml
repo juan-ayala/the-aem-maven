@@ -1,5 +1,5 @@
 mountpoints:
-  /:
-    url: https://content.da.live/juan-ayala/the-aem-maven/
-    type: markup
-  #/: https://drive.google.com/drive/u/0/folders/17Y5BQQSO-d1ZWPgh88p6Shuh3xt_N6j8
+  #/:
+  #  url: https://content.da.live/juan-ayala/the-aem-maven/
+  #  type: markup
+  /: https://drive.google.com/drive/u/0/folders/17Y5BQQSO-d1ZWPgh88p6Shuh3xt_N6j8
